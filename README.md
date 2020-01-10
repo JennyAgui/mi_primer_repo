@@ -1,2 +1,2 @@
 # mi_primer_repo
-Iniciando con GitHub
+Este es un cambio de Readme, desde mi consola.
